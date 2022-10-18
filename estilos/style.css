@@ -106,6 +106,7 @@ div.campo > input {
 
 div.campo > input:focus-within {
     background-color: white;
+    color: #001720;
 }
 
 form > input[type=submit] {
